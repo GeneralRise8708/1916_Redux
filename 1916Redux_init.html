@@ -1,5 +1,3 @@
-e.HomeStateText = "Home Residence:";
-
 e.CandidText = "Select your Presidential nominee:"
 e.VpText = "Select your Vice Presidential nominee:"
 campaignTrail_temp.modBoxTheme = {
@@ -64,9 +62,9 @@ campaignTrail_temp.candidate_json = [
             "last_name": "Wilson",
             "election": 14,
             "party": "Democratic",
-            "state": "The White House, Washington DC",
+            "state": "New Jersey",
             "priority": 1,
-            "description": "<p><strong> \"He kept us out of war!\" </strong></p><p>After being elected in 1912, Woodrow Wilson went right to work. He has passed numerous laws that made Democrats and Progressives supportive of his administration. Despite this, he has been having health issues and lost his first wife, Ellen, in 1914. After his wife's death, he married his second wife, Edith, in 1915.</p> <p>However, while all this has been happening, there has been a major war that started in Europe, so the question stands. Do we break isolationism and provide aid, or do we not break precedent? Wilon so far has chosen for the U.S. to remain an isolationist country.</p> <p><strong>  But will he change his mind? </strong></p>",
+            "description": "<p><strong> \"He kept us out of war!\" </strong></p><p>After being elected in 1912, Woodrow Wilson went right to work. He has passed numerous laws that made Democrats and Progressives supportive of his administration. Despite this, he has been having health issues and lost his first wife, Ellen, in 1914. After his wife's death, he married his second wife, Edith, in 1915.</p> <p>However, while all this has been happening, there has been a major war that started in Europe, so the question stands. Do we break isolationism and provide aid, or do we not break precedent? Wilson so far has chosen for the U.S. to remain an isolationist country.</p> <p><strong>  But will he change his mind? </strong></p>",
             "color_hex": "#000085",
             "secondary_color_hex": "#90C0FF",
             "is_active": 1,
@@ -427,7 +425,7 @@ e.creditsPage = () => {
     <h3>Writing</h3>
     <p><font color='#b665bc'>General_Rise8708</font></p>
     <h3>Playtesting</h3>
-    <p><em><b><font color='red'>DarkNinja_PS5</font></b></em></p>
+    <p><em><b><font color='red'>MeerkatHistorian1924</font></b></em></p>
     <h3>Original Mod</h3>
     <p>Dan Bryan</p><br>
     <h3>Banner</h3>
@@ -472,5 +470,25 @@ e.creditsPage = () => {
 }
 
 e.credits = "<button onclick='e.creditsPage()'>Credits</button>"
+quotes = ["'When we lose the right to be different, we lose the privilege to be free.' - Charles Evans Hughes", "'No nation is fit to sit in judgment upon any other nation.' - Woodrow Wilson", "'It is hard to fail, but it is worse never to have tried to succeed.' - Theodore Roosevelt", "'My name must not be considered for Vice President and if it is presented, I wish it withdrawn. Please withdraw it.' - Charles W. Fairbanks", "'What this country needs is a good five-cent cigar.' - Thomas R. Marshall"]
+customquote = quotes[Math.floor((Math.random() * quotes.length))]
+
+const specialQuote = "'A conservative is a man who just sits and thinks, mostly sits' - Woodrow Wilson";
+				
+// 1% chance for funny quote
+if (Math.random() < 0.01) {
+  customquote = specialQuote; // specialQuote should be defined somewhere
+} else {
+  customquote = quotes[Math.floor(Math.random() * quotes.length)];
+}
+
+// Now safe to build HTML
+corrr = `
+<div style="background:linear-gradient(to bottom,#5b462c,#a68a64); color:white;">
+  <h2>THE WAR TRAIL</h2>
+  <font id="wittyquote" size="3" color="white"><em>${customquote}</em></font>
+</div>
+`;
+
 
 //#endcode
