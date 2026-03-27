@@ -11383,9 +11383,6 @@ campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/KTGkRSR.png";
 campaignTrail_temp.candidate_last_name = " Wilson";
 campaignTrail_temp.running_mate_last_name = "Marshall";
 
-
-
-//#startcode
 campaignTrail_temp.jet_data = [{
     "nicknames": {
         "142": "Wilson",
@@ -11408,7 +11405,7 @@ campaignTrail_temp.jet_data = [{
     "cyoa_variable_effects": {},
     "cyoa_question_swaps": {},
     "cyoa_answer_swaps": {},
-    "endings_enabled": false,
+    "endings_enabled": true,
     "ending_data": {
         "1772583441099": {
             "id": 1772583441099,
