@@ -52,7 +52,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 686,
         "fields": {
-            "description": "Now we get into the second biggest issue of the campaign. Women's suffrage. Women's suffrage has been a hot topic since the early 1890's and has become more popular as time goes on. But Mr. Wilson, how do you exactly feel about Women's Suffrage. "
+            "description": "Now we get into the second biggest issue of the campaign. Women's suffrage. Women's suffrage has been a hot topic since the early 1890's and has become more popular as time goes on. But Mr. Wilson, how do you exactly feel about Women's Suffrage?"
         }
     },
     {
@@ -215,7 +215,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4242,
         "fields": {
             "question": 655,
-            "description": "I am sad to see Marshall go, but I have the best feeling Baker will make a great Vice President if we sure a second term."
+            "description": "I am sad to see Marshall go, but I have the best feeling Baker will make a great Vice President if we secure a second term."
         }
     },
     {
@@ -639,7 +639,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4337,
         "fields": {
             "question": 688,
-            "description": "let's just ignore this. Maybe this will all die down. "
+            "description": "Let's just ignore this. Maybe this will all die down. "
         }
     },
     {
@@ -11448,4 +11448,3 @@ campaignTrail_temp.jet_data = [{
     "mapping_enabled": false
 }
 ]
-
