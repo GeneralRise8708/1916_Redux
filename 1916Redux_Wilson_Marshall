@@ -10,7 +10,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 655,
         "fields": {
-            "description": "The Democratic national Convention has renominated current Vice President, Thomas R. Marshall. How will you announce him? "
+            "description": "The Democratic National Convention has renominated current Vice President, Thomas R. Marshall. How will you announce him? "
         }
     },
     {
@@ -52,7 +52,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 686,
         "fields": {
-            "description": "Now we get into the second biggest issue of the campaign. Women's suffrage. Women's suffrage has been a hot topic since the early 1890's and has become more popular as time goes on. But Mr. Wilson, how do you exactly feel about Women's Suffrage. "
+            "description": "Now we get into the second biggest issue of the campaign. Women's suffrage. Women's suffrage has been a hot topic since the early 1890's and has become more popular as time goes on. But Mr. Wilson, how do you exactly feel about Women's Suffrage? "
         }
     },
     {
@@ -87,7 +87,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 661,
         "fields": {
-            "description": "Four years ago, you lost California by 174 votes. Most newspapers say it will likely be a toss-up this year. Will you make a personal trip to California? "
+            "description": "Four years ago, you lost California by 174 votes. Most newspapers predict it will likely be a toss-up this year. Will you make a personal trip to California? "
         }
     },
     {
@@ -639,7 +639,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4337,
         "fields": {
             "question": 688,
-            "description": "let's just ignore this. Maybe this will all die down. "
+            "description": "Let's just ignore this. Maybe this will all die down. "
         }
     },
     {
@@ -11427,4 +11427,3 @@ campaignTrail_temp.jet_data = [{
     "mapping_enabled": false
 }
 ]
-
