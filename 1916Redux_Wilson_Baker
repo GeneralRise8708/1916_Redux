@@ -17,14 +17,14 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 657,
         "fields": {
-            "description": "Before we begin the campaign, some advisors recommend adding a slogan. A slogan could grab voter's attention. Will you select a slogan or will you move on? "
+            "description": "Before we begin the campaign, some advisors recommend adding a slogan. A slogan could grab voters' attention. Will you select a slogan or will you move on? "
         }
     },
     {
         "model": "campaign_trail.question",
         "pk": 687,
         "fields": {
-            "description": "Prohibition is a topic that has been brought up frequently since the 1880's. Will you discuss about it?"
+            "description": "Prohibition is a topic that has been brought up frequently since the 1880's. Will you discuss it?"
         }
     },
     {
@@ -38,14 +38,14 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 660,
         "fields": {
-            "description": "The Republicans have selected Charles W. Fairbanks as Hughes' Running Mate. Fairbanks is a familiar name as he was Roosevelt's Vice President from 1905-1909. Will you attack him or play it safe? "
+            "description": "The Republicans have selected Charles W. Fairbanks as Hughes' Running Mate. Fairbanks is a familiar name as he was Roosevelt's Vice President from 1905 to 1909. Will you attack him or play it safe? "
         }
     },
     {
         "model": "campaign_trail.question",
         "pk": 662,
         "fields": {
-            "description": "Now that the campaign is in full stretch, lets begin with the elephant in the room. The War in Europe. Over the last four years, you have taken more of an isolationist stance on he war. However, recently there has been some murmurs about Mexico joining the war as an ally of Germany. This has been rumored because of the Mexican Revolution that has going on for quite a while. If this is the case, what shall you do? "
+            "description": "Now that the campaign is in full swing, let's begin with the elephant in the room. The War in Europe. Over the last four years, you have taken more of an isolationist stance on the war. However, recently there has been some murmurs about Mexico joining the war as an ally of Germany. This has been rumored because of the Mexican Revolution that has going on for quite a while. If this is the case, what shall you do? "
         }
     },
     {
@@ -59,7 +59,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 688,
         "fields": {
-            "description": "One of your weaknesses up North is the fact you allowed your cabinet to reintroduce racial segregation to jobs involved in the Federal Government. Do you care to comment on why you did this?"
+            "description": "One of your weaknesses up North is the fact that you allowed your cabinet to reintroduce racial segregation to jobs involved in the Federal Government. Do you care to comment on why you did this?"
         }
     },
     {
@@ -73,7 +73,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 658,
         "fields": {
-            "description": "One issue that has been on citizens' minds is the amount of German and Irish immigrants in this country. This has worried people over the last couple years. What is your stance on the issue? "
+            "description": "One issue that has been on citizens' minds is the number of German and Irish immigrants in this country. This has worried people over the last couple of years. What is your stance on the issue? "
         }
     },
     {
@@ -94,7 +94,7 @@ campaignTrail_temp.questions_json = [
         "model": "campaign_trail.question",
         "pk": 664,
         "fields": {
-            "description": "Opponents of yours have mentioned about the sinking of Lusitania. Lusitania was a British ship that the Germans sunk back in May of last year that took the lives of 1,197 people, including 128 Americans. Opponents have also reminded that you lost a key ally due to the incident. That key ally was William Jennings Bryan, as he resigned that June after opposing your handling of the tragedy stating that you broke neutrality. Do you still standby your actions? "
+            "description": "Opponents of yours have mentioned the sinking of Lusitania. Lusitania was a British ship that the Germans sank back in May of last year, taking the lives of 1,197 people, including 128 Americans. Opponents have also reminded that you lost a key ally due to the incident. That key ally was William Jennings Bryan, as he resigned that June after opposing your handling of the tragedy stating that you broke neutrality. Do you still standby your actions? "
         }
     },
     {
@@ -183,7 +183,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4238,
         "fields": {
             "question": 654,
-            "description": "We have done some remarkable things under my first term such as signing laws that pleased both Democrats and Progressives, and I will continue this progress going into my second term. "
+            "description": "We have done some remarkable things under my first term, such as signing laws that pleased both Democrats and Progressives, and I will continue this progress going into my second term. "
         }
     },
     {
@@ -191,7 +191,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4239,
         "fields": {
             "question": 654,
-            "description": "Let's repeat the same strategy as we did in 1912. We will use the Republican Party's split to our advantage. Hughes is no Roosevelt and is in no way as popular as he was "
+            "description": "Let's repeat the same strategy as we did in 1912. We will use the Republican Party's split to our advantage. Hughes is no Roosevelt and is in no way as popular as he was."
         }
     },
     {
@@ -271,7 +271,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4251,
         "fields": {
             "question": 658,
-            "description": "I understand the concern about immigration. What worries me though is the fact we are allowing immigrants in a time of war. Especially immigrants that are from countries who are opposed to a democracy system. "
+            "description": "I understand the concern about immigration. What worries me, though, is the fact that we are allowing immigrants in a time of war. Especially immigrants who are from countries that are opposed to a democracy system. "
         }
     },
     {
@@ -287,7 +287,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4253,
         "fields": {
             "question": 658,
-            "description": "I understand the concern about immigration. I am personally fond with immigration but maybe we shall limit the amount of immigrants we get a year. "
+            "description": "I understand the concern about immigration. I am personally fond of immigration, but maybe we should limit the number of immigrants we get a year. "
         }
     },
     {
@@ -327,7 +327,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4258,
         "fields": {
             "question": 660,
-            "description": "Let us not even open this can of worms. I respect Mr. Fairbanks as a person and wish not to comment anything else. "
+            "description": "Let us not even open this can of worms. I respect Mr. Fairbanks as a person and wish not to comment on anything else. "
         }
     },
     {
@@ -359,7 +359,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4262,
         "fields": {
             "question": 662,
-            "description": "If this were to happen, then we shall make sure we are ready. It is a fact that we have had tension with Mexico since before the Mexican-American War just 70 years prior. I hope it will not come to this but our nation needs to prepare for the worst. "
+            "description": "If this were to happen, then we shall make sure we are ready. It is a fact that we have had tension with Mexico since before the Mexican-American War, just 70 years prior. I hope it will not come to this but our nation needs to prepare for the worst. "
         }
     },
     {
@@ -367,7 +367,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4263,
         "fields": {
             "question": 662,
-            "description": "I pray that it doesn't come to this but we need troops on high alert, especially in states like California, Arizona, New Mexico and Texas. If Mexico tries to take us down, we will take them down. "
+            "description": "I pray that it doesn't come to this, but we need troops on high alert, especially in states like California, Arizona, New Mexico, and Texas. If Mexico tries to take us down, we will take them down. "
         }
     },
     {
@@ -407,7 +407,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4268,
         "fields": {
             "question": 664,
-            "description": "The sinking of Lusitania was a tragedy indeed. However, at the end of the day, Americans lives along with many others were lost. I hereby support my actions. "
+            "description": "The sinking of Lusitania was a tragedy indeed. However, at the end of the day, American lives, along with many others, were lost. I hereby support my actions. "
         }
     },
     {
@@ -415,7 +415,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4269,
         "fields": {
             "question": 664,
-            "description": "I am an isolationist and I believe in neutrality. However, when American lives along with many others are lost, we have to do what we believe is best, even if we anger people. "
+            "description": "I am an isolationist, and I believe in neutrality. However, when American lives along with many others are lost, we have to do what we believe is best, even if we anger people. "
         }
     },
     {
@@ -463,7 +463,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4315,
         "fields": {
             "question": 681,
-            "description": "I see no reason to mention the 17th Amendment as it was signed a few years ago, let's focus on other issues. "
+            "description": "I see no reason to mention the 17th Amendment, as it was signed a few years ago; let's focus on other issues. "
         }
     },
     {
@@ -495,7 +495,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4319,
         "fields": {
             "question": 683,
-            "description": "The screening was not meant to offend anyone on the basis of race. It was merely shown because of my friendship with the director. "
+            "description": "The screening was not meant to offend anyone based on race. It was merely shown because of my friendship with the director. "
         }
     },
     {
@@ -503,7 +503,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4320,
         "fields": {
             "question": 683,
-            "description": "Well, I only screened it to show Americans how horrible segregation is. The Republicans are spreading around misinformation. "
+            "description": "Well, I only screened it to show Americans how horrible segregation is. The Republicans are spreading misinformation. "
         }
     },
     {
@@ -519,7 +519,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4322,
         "fields": {
             "question": 684,
-            "description": "I have previously stated we shall remain neutral. However, I am willing to join the war if European Nations needs our support. "
+            "description": "I have previously stated we shall remain neutral. However, I am willing to join the war if European nations need our support. "
         }
     },
     {
@@ -559,7 +559,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4327,
         "fields": {
             "question": 686,
-            "description": "I am supportive of a constitutional amendment regarding Women's Suffrage. I also plan on signing it into law, whenever the time is here."
+            "description": "I am supportive of a constitutional amendment regarding Women's Suffrage. I also plan on signing it into law whenever the time is here."
         }
     },
     {
@@ -567,7 +567,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4328,
         "fields": {
             "question": 686,
-            "description": "I believe Women's Suffrage will become an amendment eventually, however I do not believe an amendment will be passed for a few decades. "
+            "description": "I believe Women's Suffrage will become an amendment eventually; however, I do not believe an amendment will be passed for a few decades. "
         }
     },
     {
@@ -583,7 +583,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4330,
         "fields": {
             "question": 686,
-            "description": "I am opposed to an adoption of an amendment for Women's Suffrage. "
+            "description": "I am opposed to the adoption of an amendment for Women's Suffrage. "
         }
     },
     {
@@ -663,7 +663,7 @@ campaignTrail_temp.answers_json = [
         "pk": 4343,
         "fields": {
             "question": 690,
-            "description": "To be frank, I regret the signing of this act. This act has proven to be increasing corruption and favor buisnesses over workers. I ask for a repeal of the act. "
+            "description": "To be frank, I regret the signing of this act. This act has proven to increase corruption and favor businesses over workers. I ask for a repeal of the act. "
         }
     },
     {
@@ -815,7 +815,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15374,
         "fields": {
             "question": 662,
-            "description": "I see. Maybe we can supply some troops near the border, but I do not want a war between us and our neighbor. "
+            "description": "I see. Maybe we can supply some troops near the border, but I do not want a war between our neighbor and us. "
         }
     },
     {
@@ -823,7 +823,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15608,
         "fields": {
             "question": 684,
-            "description": "The citizens already know my stance, there is no need to comment. "
+            "description": "The citizens already know my stance; there is no need to comment. "
         }
     },
     {
@@ -831,7 +831,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15613,
         "fields": {
             "question": 658,
-            "description": "I understand the concern about immigration. However as of right now, we have more issues to address. "
+            "description": "I understand the concern about immigration. However, as of right now, we have more issues to address. "
         }
     },
     {
@@ -855,7 +855,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15645,
         "fields": {
             "question": 664,
-            "description": "What Germany did was abhorrent and hasn't even issued an apology for the attack. We cannot let a tragedy like this happen again. I standby my handling and will keep an eye on Germany for the matter. "
+            "description": "What Germany did was abhorrent and hasn't even issued an apology for the attack. We cannot let a tragedy like this happen again. I stand by my handling and will keep an eye on Germany for the matter. "
         }
     },
     {
@@ -927,7 +927,7 @@ campaignTrail_temp.answers_json = [
         "pk": 15726,
         "fields": {
             "question": 696,
-            "description": "We shall close on a speech of national unity. Being unified is the most important issues as of right now. "
+            "description": "We shall close on a speech of national unity. Being unified is the most important issue as of right now. "
         }
     },
     {
@@ -10594,7 +10594,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4243,
             "candidate": 142,
-            "answer_feedback": "Replacing Marshall will hurt you in Indiana. However, you receive a boost in Ohio as that is Baker's home state. "
+            "answer_feedback": "Replacing Marshall will hurt you in Indiana. However, you receive a boost in Ohio, as that is Baker's home state. "
         }
     },
     {
@@ -10621,7 +10621,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4251,
             "candidate": 142,
-            "answer_feedback": "This is what most American's stances are right now. "
+            "answer_feedback": "This is what most Americans' stances are right now. "
         }
     },
     {
@@ -10630,7 +10630,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4252,
             "candidate": 142,
-            "answer_feedback": "This is an unpopular stance and one American's are not too fond about. "
+            "answer_feedback": "This is an unpopular stance, and one Americans are not too fond of. "
         }
     },
     {
@@ -10648,7 +10648,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4254,
             "candidate": 142,
-            "answer_feedback": "Unfortunately for you, the scandal is confirmed to be true and you take a dip in the polls. "
+            "answer_feedback": "Unfortunately for you, the scandal is confirmed to be true, and you take a dip in the polls. "
         }
     },
     {
@@ -10711,7 +10711,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4262,
             "candidate": 142,
-            "answer_feedback": "This is more on an internationalist stance but this calms down people, especially the states bordering Mexico. "
+            "answer_feedback": "This is more on an internationalist stance, but this calms down people, especially the states bordering Mexico. "
         }
     },
     {
@@ -10720,7 +10720,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4263,
             "candidate": 142,
-            "answer_feedback": "This is an internationalist stance. However, by 1916, U.S. Citizens predict the U.S. will join the war pretty soon.  "
+            "answer_feedback": "This is an internationalist stance. However, by 1916, U.S. citizens predicted that the U.S. would join the war pretty soon.  "
         }
     },
     {
@@ -10774,7 +10774,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4269,
             "candidate": 142,
-            "answer_feedback": "Voters admire and appreciate your bravery and honesty. However, isolationist are still uneasy. "
+            "answer_feedback": "Voters admire and appreciate your bravery and honesty. However, isolationists are still uneasy. "
         }
     },
     {
@@ -10792,7 +10792,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4312,
             "candidate": 142,
-            "answer_feedback": "The majority of Americans do not agree with your stance but some understand your reasoning. "
+            "answer_feedback": "The majority of Americans do not agree with your stance, but some understand your reasoning. "
         }
     },
     {
@@ -10909,7 +10909,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4327,
             "candidate": 142,
-            "answer_feedback": "This is not the normal position in 1916, however this will more than certainly help you out west. "
+            "answer_feedback": "This is not the normal position in 1916; however, this will more than certainly help you out west. "
         }
     },
     {
@@ -10918,7 +10918,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4328,
             "candidate": 142,
-            "answer_feedback": "That is what Conservative Democrats believe so you might only be getting their vote this year? "
+            "answer_feedback": "That is what Conservative Democrats believe, so you might only be getting their vote this year? "
         }
     },
     {
@@ -10999,7 +10999,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4344,
             "candidate": 142,
-            "answer_feedback": "Fair enough; however, you gave the Republicans some ammo to attack you for this rumor "
+            "answer_feedback": "Fair enough; however, you gave the Republicans some ammo to attack you for this rumor."
         }
     },
     {
@@ -11116,7 +11116,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4250,
             "candidate": 142,
-            "answer_feedback": "This slogan can definitely catch voter's attention. "
+            "answer_feedback": "This slogan can definitely catch voters' attention. "
         }
     },
     {
@@ -11143,7 +11143,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4332,
             "candidate": 142,
-            "answer_feedback": "This is fair. prohibition is not a major issue today. "
+            "answer_feedback": "This is fair. Prohibition is not a major issue today. "
         }
     },
     {
@@ -11206,7 +11206,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15608,
             "candidate": 142,
-            "answer_feedback": "Advisors felt you could have done a little more with this statement but what more can you do? "
+            "answer_feedback": "Advisors felt you could have done a little more with this statement, but what more can you do? "
         }
     },
     {
@@ -11215,7 +11215,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 15613,
             "candidate": 142,
-            "answer_feedback": "Americans prefer to have the situation solved as soon as possible, however there are more issues that need to be addressed. "
+            "answer_feedback": "Americans prefer to have the situation solved as soon as possible, however, there are more issues that need to be addressed. "
         }
     },
     {
@@ -11233,7 +11233,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4259,
             "candidate": 142,
-            "answer_feedback": "The trip goes fine. However your meeting with Johnson falls flat. So expect a tiny boost. "
+            "answer_feedback": "The trip goes fine. However, your meeting with Johnson falls flat. So expect a tiny boost. "
         }
     },
     {
@@ -11368,7 +11368,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 4360,
             "candidate": 142,
-            "answer_feedback": "The rally went over well, and you recieve a little boost before election day. "
+            "answer_feedback": "The rally went over well, and you received a little boost before election day. "
         }
     },
     {
